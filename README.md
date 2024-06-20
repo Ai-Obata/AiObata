@@ -32,8 +32,8 @@
         <p>Hellp！I'm Ai Obata. I'm a master student in the University of Tokyo, Japan. </p>
         <h2>Interest</h2>
         <p>My major is forest ecology. I'm studing about carbon fixing ability of forests and how climate change will effect on forest. </p>
-        <h2>email</h2>
-        <p>メール:fw5etluykscfs"@"gmail.com</p>
+        <h2>Contact</h2>
+        <p>Email:fw5etluykscfs"@"gmail.com</p>
         <p>GitHub: <a href="https://github.com/username">github.com/username</a></p>
     </div>
 </body>
