@@ -29,7 +29,7 @@
 <body>
     <div class="container">
         <h1>Ai Obata</h1>
-        <p>Hellp！I'm Ai Obata. I'm a master student in the University of Tokyo, Japan. </p>
+        <p>Hello！My name is Ai Obata. I'm a master student in the University of Tokyo, Japan. </p>
         <h2>Interest</h2>
         <p>My major is forest ecology. I'm studing about carbon fixing ability of forests and how climate change will effect on forest. </p>
         <h2>Contact</h2>
